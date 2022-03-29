@@ -19,9 +19,9 @@ https://user-images.githubusercontent.com/66934377/159935224-6f69153a-ab3f-48e3-
 
 # Framework 
 
-The Below table framework is used in this project. This project is made with Boostrap
+The Below table framework is used in this project. This project is made with Bootstrap
 
 | Framework  | Version |
 | ------------- | ------------- |
-|  Boostrap  |  v5.1.3  |
+|  Bootstrap  |  v5.1.3  |
 
